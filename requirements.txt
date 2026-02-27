@@ -1,0 +1,8 @@
+kokoro
+en_core_web_sm  #  安装本地的en_core_web_sm-3.8.0-py3-none-any.whl文件
+pyopenjtalk-plus
+fugashi
+mojimoji
+unidic-lite
+ordered_set
+cn2an
